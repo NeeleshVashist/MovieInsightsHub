@@ -1,6 +1,6 @@
 # MovieInsightsHub
 
-MovieInsightsHub is a project developed by Team PyCoders for the AML 3204 - Social Media Analytics course. The project focuses on creating a personalized movie recommendation system using Collaborative Filtering and Hybrid Recommender techniques. It also integrates sentiment analysis of YouTube comments to enhance the user experience.
+MovieInsightsHub is a project focuses on creating a personalized movie recommendation system using Collaborative Filtering and Hybrid Recommender techniques. It also integrates sentiment analysis of YouTube comments to enhance the user experience.
 
 ## Table of Contents
 
@@ -12,8 +12,6 @@ MovieInsightsHub is a project developed by Team PyCoders for the AML 3204 - Soci
   - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributors](#contributors)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
@@ -63,12 +61,3 @@ The project achieved the following key outcomes:
 - Hybrid Recommender System RMSE: 2.8344
 
 Enhanced movie recommendations with emotional resonance through sentiment analysis.
-
-### Contributors
-- Neelesh Vashist
-- Rohit Kumar
-- Mukul Bisht
-- Saurabh Singh
-
-### Acknowledgments
-We extend our gratitude to Professor Mohammad Saiful Islam for his valuable guidance and insights throughout the project.
